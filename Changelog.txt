@@ -1,17 +1,12 @@
-MRT Release log for V0.0.14-12 
+﻿
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    Nullam rutrum odio at rutrum pellentesque.
+    Aliquam pharetra magna eu pharetra congue.
+    Nam quis metus in orci elementum suscipit.
+    Nam quis mauris sed mi sodales accumsan et et neque.
 
-NEW:
-* Added 3-d touch test for ios
-* Added support for RF switch
-* Added rfswitch configuration window. IOS uses touchscreen tool to press the home button.
-
-
-FIXED:
-
-* Not turning off vacuum during testing
-* Fixed screen test issues
-* Camera bugs
-* 
-
-
-mis juhtub nüüd!!!!
+    Integer tristique sem et ligula tempus, eget dignissim elit tristique.
+    Nulla vel eros pharetra lectus tristique suscipit non non leo.
+    Aenean porttitor odio at tempus ultricies.
+    Nullam eu urna sed erat ornare auctor.
+    Mauris sit amet enim tempor, efficitur nibh a, congue massa.
